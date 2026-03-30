@@ -14,9 +14,9 @@ Each practical includes:
 - PDF documentation  
 - Theory explanation  
 - Algorithms / logic  
-- Implementation and output  
+- Implementation and results  
 
-These experiments cover important AI concepts such as search techniques, knowledge representation, logic programming, and probability.
+The experiments cover key AI concepts such as search techniques, knowledge representation, machine learning, logic programming, and AI tools.
 
 ---
 
@@ -28,9 +28,12 @@ These experiments cover important AI concepts such as search techniques, knowled
 - 🔹 [Practical 04 – A* Algorithm vs BFS](./Practical-04-AStar-vs-BFS)
 - 🔹 [Practical 05 – Cryptarithmetic Puzzle](./Practical-05-Cryptarithmetic-CSP)
 - 🔹 [Practical 06 – Alpha Beta Pruning](./Practical-06-Alpha-Beta-Pruning)
-- 🔹 [Practical 07 – Prolog Family Relationship](./Practical-07-Prolog)
+- 🔹 [Practical 07 – Prolog](./Practical-07-Prolog)
 - 🔹 [Practical 08 – Semantic Networks](./Practical-08-Semantic-Networks)
 - 🔹 [Practical 09 – Bayes Rule](./Practical-09-Bayes-Rules)
+- 🔹 [Practical 10 – Prompt Engineering](./Practical-10-Prompt-Engineering)
+- 🔹 [Practical 11 – Linear Regression](./Practical-11-Linear-Regression)
+- 🔹 [Practical 12 – AI Tool (Image Enhancement)](./Practical-12-AI-Tool)
 
 ---
 
@@ -39,14 +42,17 @@ These experiments cover important AI concepts such as search techniques, knowled
 | Practical | Topic | Concepts |
 |-----------|------|----------|
 | 01 | Magic Square | Mathematical logic |
-| 02 | Water Jug Problem | BFS, State Space |
-| 03 | Tic Tac Toe AI | Game logic |
+| 02 | Water Jug | BFS, State Space |
+| 03 | Tic Tac Toe | Game logic |
 | 04 | A* vs BFS | Heuristic search |
-| 05 | Cryptarithmetic | CSP, Backtracking |
-| 06 | Alpha Beta Pruning | Minimax optimization |
+| 05 | Cryptarithmetic | CSP |
+| 06 | Alpha Beta | Minimax |
 | 07 | Prolog | Logic programming |
-| 08 | Semantic Networks | Knowledge representation |
-| 09 | Bayes Rule | Probability & reasoning |
+| 08 | Semantic Network | Knowledge representation |
+| 09 | Bayes Rule | Probability |
+| 10 | Prompt Engineering | AI interaction |
+| 11 | Linear Regression | Machine Learning |
+| 12 | AI Tool | Image enhancement |
 
 ---
 
@@ -55,16 +61,14 @@ These experiments cover important AI concepts such as search techniques, knowled
 - Python  
 - VS Code / Google Colab  
 - SWI-Prolog  
-- Search Algorithms  
-- Constraint Satisfaction  
-- Logic Programming  
-- Probability Models  
+- Machine Learning Libraries  
+- AI Tools (Let's Enhance)  
 
 ---
 
 ## 📌 Conclusion
 
-These practicals provide hands-on understanding of Artificial Intelligence techniques such as search algorithms, logical reasoning, knowledge representation, and probabilistic inference.
+These practicals provide hands-on understanding of Artificial Intelligence concepts including search algorithms, logic programming, machine learning, and AI-based tools.
 
 ---
 
