@@ -2,6 +2,8 @@
 ### Practicals & Project Portfolio  
 
 ---
+## 🌐 Live Demo  
+https://expert-maintenance-system.onrender.com  
 
 ## 📘 Repository Overview  
 
@@ -9,8 +11,6 @@ This repository contains:
 
 - 📂 Artificial Intelligence Lab Practicals (Semester VI)  
 - 🚀 AI-Based Expert Maintenance System Project
-- ### 🌐 Live Demo  
-https://expert-maintenance-system.onrender.com  
 
 It showcases both **academic learning** and **real-world implementation** of Artificial Intelligence concepts such as search algorithms, expert systems, machine learning, and AI tools.
 
