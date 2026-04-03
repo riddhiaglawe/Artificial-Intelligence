@@ -1,6 +1,12 @@
 # 🌐 Live Demo  
 https://expert-maintenance-system.onrender.com  
 
+## 📱 Scan to Open Project  
+
+<p align="center">
+  <img src="Project-QR.png" width="120"/>
+</p>
+
 ---
 
 # ⚙️ AI-Based Expert Maintenance System  
